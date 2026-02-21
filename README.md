@@ -1,1 +1,16 @@
-# Dashboard-Logistica-PowerBI
+Dashboard de Eficiência Logística e Faturamento
+
+📝 Descrição do Projeto
+Este dashboard foi desenvolvido para monitorar a saúde financeira e a eficiência da operação logística. Ele permite identificar gargalos, como notas rejeitadas por erros de cadastro.
+
+🛠️ Tecnologias Utilizadas
+Power BI: Tratamento de dados (Power Query) e Visualização.
+
+DAX: Criação de métricas de eficiência e faturamento.
+
+💡 Principais Insights
+Causa Raiz de Rejeições: Identificamos que erros de CPF e endereço são os principais motivos de atraso na emissão de notas.
+
+Interatividade: O relatório possui Tooltips personalizados que mostram o cliente e o ID da nota diretamente no gráfico de ranking.
+
+Eficiência: Monitoramento constante do KPI de sucesso vs. erros operacionais.
