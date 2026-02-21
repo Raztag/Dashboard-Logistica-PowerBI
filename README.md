@@ -14,3 +14,8 @@ Causa Raiz de Rejeições: Identificamos que erros de CPF e endereço são os pr
 Interatividade: O relatório possui Tooltips personalizados que mostram o cliente e o ID da nota diretamente no gráfico de ranking.
 
 Eficiência: Monitoramento constante do KPI de sucesso vs. erros operacionais.
+
+
+
+<img width="1443" height="810" alt="Screenshot_343" src="https://github.com/user-attachments/assets/31301a5e-7d74-40bc-803a-10c8a61e31ba" />
+<img width="1439" height="811" alt="Screenshot_344" src="https://github.com/user-attachments/assets/ad8fb061-3f98-4009-8ea5-d884f571fe9d" />
