@@ -1,0 +1,21 @@
+ID_Nota,Data,Turno,Cliente,Valor_Nota,Status_SEFAZ,Tempo_Proc_Min,Motivo_Erro,Regiao
+1001,16/02/2026,Manha,Joao Silva,1200.50,Autorizada,2,,Metropolitana
+1002,16/02/2026,Manha,Maria Souza,450.00,Rejeitada,15,CPF Invalido,Serra
+1003,16/02/2026,Tarde,Loja Sul,3200.00,Autorizada,5,,Sul
+1004,16/02/2026,Tarde,Pedro Alvares,890.20,Rejeitada,45,Turno Fechado,Metropolitana
+1005,17/02/2026,Manha,Ana Costa,150.00,Autorizada,1,,Litoral
+1006,17/02/2026,Manha,Carlos Lux,2100.00,Autorizada,3,,Serra
+1007,17/02/2026,Tarde,Jose Serra,980.00,Rejeitada,20,Endereco Incompleto,Sul
+1008,17/02/2026,Noite,Super RS,5600.00,Autorizada,4,,Metropolitana
+1009,18/02/2026,Manha,Bia Nunes,320.00,Autorizada,2,,Litoral
+1010,18/02/2026,Tarde,Marcilio Dias,1100.00,Rejeitada,60,Erro de Conexao,Serra
+1011,18/02/2026,Noite,Lojas Quero-Quero,4500.00,Autorizada,3,,Sul
+1012,19/02/2026,Manha,Fernandes ME,780.50,Autorizada,2,,Metropolitana
+1013,19/02/2026,Manha,Ricardo Alves,210.00,Rejeitada,12,CPF Invalido,Litoral
+1014,19/02/2026,Tarde,Amanda Silva,1340.00,Autorizada,6,,Serra
+1015,19/02/2026,Tarde,Comercial Viamao,9200.00,Autorizada,4,,Metropolitana
+1016,19/02/2026,Noite,Lucas Mendes,550.00,Rejeitada,30,Turno Fechado,Sul
+1017,20/02/2026,Manha,Bruna Oliveira,120.00,Autorizada,1,,Litoral
+1018,20/02/2026,Manha,Mercado Central,3400.00,Autorizada,5,,Serra
+1019,20/02/2026,Tarde,Paulo Freire,280.00,Rejeitada,18,Endereco Incompleto,Metropolitana
+1020,20/02/2026,Tarde,Construtora Sul,15600.00,Autorizada,10,,Sul
