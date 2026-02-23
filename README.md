@@ -1,7 +1,6 @@
 Dashboard de Eficiência Logística e Faturamento
 
-📝 Descrição do Projeto
-Este dashboard foi desenvolvido para monitorar a saúde financeira e a eficiência da operação logística. Ele permite identificar gargalos, como notas rejeitadas por erros de cadastro.
+📝 Descrição do Projeto: Este dashboard foi desenvolvido para monitorar a saúde financeira e a eficiência da operação logística. Ele permite identificar gargalos, como notas rejeitadas por erros de cadastro.
 
 🛠️ Tecnologias Utilizadas
 Power BI: Tratamento de dados (Power Query) e Visualização.
